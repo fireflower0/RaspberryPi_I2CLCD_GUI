@@ -1,4 +1,4 @@
-LtkLabelEntryTest
+RaspberryPi_I2CLCD_GUI
 ====
 
 Overview
